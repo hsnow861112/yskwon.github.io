@@ -1,0 +1,7 @@
+/*!
+  * Bootstrap v5.3.2 (https://getbootstrap.com/)
+  * Copyright 2011-2023 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+  */
+
+/*! hash:55d188804e5026ac8e52, chunkhash:a8c8f2b030682ca37a44, name:vendors-bd67ca70, filebase:vendors-bd67ca70.55d188804e5026ac8e52.js, query:, file:js/vendors-bd67ca70.55d188804e5026ac8e52.js */
